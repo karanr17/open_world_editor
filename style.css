@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#myCanvas {
+  background-color: #2a5;
+}
+
+button {
+  height: 35px;
+  font-size: 20px;
+}
